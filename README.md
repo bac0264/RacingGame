@@ -1,4 +1,4 @@
-Buổi 2
+Buổi 3
 
 Tính năng mới.
 1. Các hàm cơ bản của Unity
